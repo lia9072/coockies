@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ATS/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/Proyecto%20JAVA/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/Proyecto%20JAVA/ProyectoFinal/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/ProyectoFinal_algoritmos/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_11/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_12/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/BB%20AED_Semana_10/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/BB%20AED_Semana_09/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_05/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_02/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/AED%20-%20Evaluación%20Laboratorio%20CL3/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/PROYECTO%20DE%20ALGORITMOS%20-II/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/Bb%20CiberJava%20Nivel%20I/CiberJava_Nivel_I/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_07/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ATS/fsddg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ats/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/artificios/Bb%20CiberJava%20Nivel%20II/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/%7BMP%7D%20Solución_Proyectos_IA/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_03/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/AED%20-%20Caso%20Práctico%20CL2/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/2020%20Tarea%202/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_07/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_06/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/AED%20-%20Evaluación%20Laboratorio%20CL1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_02/Propuesto_2_5/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_04/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/lia/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_01/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/Desktop/Bb%20CiberJava%20Nivel%20I/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ATS/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/Proyecto%20JAVA/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/Proyecto%20JAVA/ProyectoFinal/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/Proyecto%20en%20java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/ProyectoFinal_algoritmos/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_11/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_12/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/BB%20AED_Semana_10/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/BB%20AED_Semana_09/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_05/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_02/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/AED%20-%20Evaluación%20Laboratorio%20CL3/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/PROYECTO%20DE%20ALGORITMOS%20-II/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/Bb%20CiberJava%20Nivel%20I/CiberJava_Nivel_I/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_07/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ATS/fsddg/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/ats/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/artificios/Bb%20CiberJava%20Nivel%20II/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/%7BMP%7D%20Solución_Proyectos_IA/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/%7B@%7D%20AED_Semana_03/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/AED%20-%20Caso%20Práctico%20CL2/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/2020%20Tarea%202/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_07/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_06/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/AED%20-%20Evaluación%20Laboratorio%20CL1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_02/Propuesto_2_5/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_04/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/lia/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/cursos%20de%20CIBERTEC%202021/ALGORITMOS%20Y%20ESTRUCTURA%20DE%20DATOS/Bb%20AED_Semana_01/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/USUARIO/Desktop/Bb%20CiberJava%20Nivel%20I/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/USUARIO/eclipse/committers-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
